@@ -1,7 +1,7 @@
 Port 2297
 PermitRootLogin no
 DenyUsers root
-AllowUsers ck
+AllowUsers ck ubuntu
 PasswordAuthentication no
 AllowTcpForwarding no
 AllowStreamLocalForwarding no
